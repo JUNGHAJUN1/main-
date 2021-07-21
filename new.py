@@ -73,8 +73,29 @@ print("생년월일 : " + jumin[:6])
 print("뒤 7자리 : " + jumin[7:])
 print("뒤 7자리 (뒤에서부터) : " + jumin[-7:])'''
 
-python=
-print(python.lowe())
+'''python="Python is Amazing"
+print(python.lower())
+print(python.upper())
+print(python[0].isupper())
+print(len(python))'''
+
+'''print("나는 %d살 입니다."%20)
+print("나는 %s살 입니다."%"파이썬")
+print("나는 %c살 입니다."%"A")
+print("나는 %s색과 %s색을 좋아해요."%("파란","빨강"))'''
+
+'''print("나는 {}살 입니다.".format(20))
+print("나는 {}색과 {}색을 좋아해요".format("파란","빨강"))
+print("나는 {0}색과 {1}색을 좋아해요".format("파란","빨강"))
+print("나는 {1}색과 {0}색을 좋아해요".format("파란","빨강"))'''
+
+
+
+
+
+
+
+
 
 
 
