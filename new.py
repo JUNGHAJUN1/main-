@@ -73,6 +73,7 @@ print("생년월일 : " + jumin[:6])
 print("뒤 7자리 : " + jumin[7:])
 print("뒤 7자리 (뒤에서부터) : " + jumin[-7:])'''
 
+python=
 print(python.lowe())
 
 
