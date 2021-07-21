@@ -89,7 +89,11 @@ print("나는 {}색과 {}색을 좋아해요".format("파란","빨강"))
 print("나는 {0}색과 {1}색을 좋아해요".format("파란","빨강"))
 print("나는 {1}색과 {0}색을 좋아해요".format("파란","빨강"))'''
 
-
+'''subway=["유재석","조세호","박명수"]
+print(subway)
+print(subway.index("조세호"))
+subway.append("하하")
+print(subway).pop은 사라지게함'''
 
 
 
