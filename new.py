@@ -96,6 +96,33 @@ subway.append("하하")
 print(subway).pop은 사라지게함'''
 
 
+'''num_list=[5,2,4,3,1]
+
+num_list.sort()
+print(num_list)
+
+num_list.reverse()
+print(num_list)
+
+num_list.clear()'''
+
+'''num_list=[5,2,4,3,1]
+mix_list=["조세호",20,True]
+
+num_list.extend(mix_list)
+print(num_list)'''
+
+'''cabinet={3:"유재석",100:"김태호"}
+print(cabinet.get(5,"사용 가능"))
+print(cabinet.get(100))'''
+
+cabinet = {"A-3":"유재석","B-100":"김태호"}
+print(cabinet["A-3"])
+cabinet["A-3"] = "김종국"
+print(cabinet)
+
+del cabinet["A-3"]
+
 
 
 
